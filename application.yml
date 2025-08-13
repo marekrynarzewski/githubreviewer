@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+github:
+  api:
+    base: https://api.github.com
+  token: ${GITHUB_TOKEN:} # opcjonalnie
