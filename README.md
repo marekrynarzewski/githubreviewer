@@ -61,7 +61,7 @@ Ustaw zmienną środowiskową `GITHUB_TOKEN` (fine‑grained, read‑only do rep
 # albo:
 ```bash
 ./mvnw clean package
-java -jar target/github-reviewer-*.jar
+java -jar target/demo-0.0.1-SNAPSHOT.jar
 ```
 
 Aplikacja startuje domyślnie pod `http://localhost:8080`.
